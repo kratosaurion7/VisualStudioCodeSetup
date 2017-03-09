@@ -1,0 +1,7 @@
+# Overview #
+
+This is just a basic project to enable quickly starting a c++ project for Visual Studio Code. 
+
+The project is built using the 2 batch files, 'build.bat' and 'clean.bat'. Those programs are in the main directory so that they can be called easily from the VS Code terminal.
+
+The build script is setup to load the Visual Studio Developer command prompt from Visual Studio 2015 installed in the Program Files (x86) directory. Change if necessary to point toward the install on your computer.
